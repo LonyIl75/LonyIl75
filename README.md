@@ -44,6 +44,8 @@ or
 <br>
 
 ---
+<!--
+
 ### 📢 Skills
 
 ⭐⭐⭐⭐⭐
@@ -75,7 +77,6 @@ or
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="vertical-align:top; margin:4px">&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="vertical-align:top; margin:4px">&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="vertical-align:top; margin:4px">&nbsp;&nbsp;&nbsp;
-  <!-- <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" style="vertical-align:top; margin:4px">&nbsp;&nbsp;&nbsp;-->
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="vertical-align:top; margin:4px">&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -96,10 +97,10 @@ or
 <p align="left">
  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" style="vertical-align:top; margin:4px">&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top; margin:4px">&nbsp;&nbsp;&nbsp;
-  <!--<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" style="vertical-align:top; margin:4px">&nbsp;&nbsp;&nbsp;-->
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" style="vertical-align:top; margin:4px">&nbsp;&nbsp;&nbsp;
 
 </p>
 
 ⭐
 **: time spent**
+-->
