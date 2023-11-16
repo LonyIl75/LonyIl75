@@ -107,6 +107,6 @@ or
 ---
 -->
 
-**Timeline :** [github-project-timeline.vercel.app](github-project-timeline.vercel.app)
+**Timeline :** [github-project-timeline.vercel.app](https://github-project-timeline.vercel.app)
 
 ---
