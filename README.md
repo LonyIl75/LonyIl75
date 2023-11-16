@@ -43,8 +43,8 @@ or
 
 <br>
 
----
 <!--
+---
 
 ### 📢 Skills
 
@@ -103,4 +103,10 @@ or
 
 ⭐
 **: time spent**
+
+---
 -->
+
+**Timeline :** [github-project-timeline.vercel.app](github-project-timeline.vercel.app)
+
+---
