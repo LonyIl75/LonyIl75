@@ -8,7 +8,7 @@ I'm growing my projects for better promotion of positive content. Besides that, 
 
 <img align="right" alt="the-boy-the-mole-the-fox-and-the-horse" src="assets/gif/the-boy-the-mole-the-fox-and-the-horse.gif" />
 
- - 📫 How to reach me:
+📫 How to reach me:
  
 [olione.lonyil75@gmail.com](mailto:olione.lonyil75@gmail.com)
 
